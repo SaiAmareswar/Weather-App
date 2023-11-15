@@ -28,4 +28,4 @@ HTML, CSS, JavaScript
 
 ![Media](https://i.postimg.cc/nzZ5cW6f/3rd.png "Media title") ![Wrong-City-Name](https://i.postimg.cc/FK08vvCx/4th.png "Wrong-City-Name title")
 
-
+<img src="https://i.postimg.cc/nzZ5cW6f/3rd.png" width=20>
