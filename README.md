@@ -5,7 +5,7 @@
 
 # Weather Finder Application
 
-<h1 style="font-size=12px;">Description:</h1>
+<h1>Description:</h1>
 
 Experience real-time weather updates with the Weather Finder Application. This web-based tool allows users to effortlessly check the current weather conditions for any city or country. The intuitive interface, designed with HTML and styled with CSS, provides a seamless user experience. Leveraging JavaScript, the application dynamically fetches and displays accurate weather information, ensuring users stay informed about temperature, humidity, wind speed, and more. The search option simplifies the process—enter the city or country name, hit search, and stay updated on the latest weather updates instantly. Stay ahead of the forecast with the Weather Finder Application.
 
