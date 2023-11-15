@@ -12,8 +12,11 @@ Experience real-time weather updates with the Weather Finder Application. This w
 <h1>Features:</h1>
 
 • Real-time weather updates
+
 • User-friendly interface
+
 • Search by city or country
+
 • Temperature, humidity, and wind speed details
 
 <h1>Technologies Used:</h1>
