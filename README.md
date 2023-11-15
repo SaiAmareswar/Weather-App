@@ -24,4 +24,4 @@ Experience real-time weather updates with the Weather Finder Application. This w
 HTML, CSS, JavaScript
 
 
-<img scr="https://i.postimg.cc/2SsMgyG6/1st.png">
+![alt text](https://i.postimg.cc/2SsMgyG6/1st.png)
