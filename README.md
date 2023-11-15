@@ -22,3 +22,6 @@ Experience real-time weather updates with the Weather Finder Application. This w
 <h1>Technologies Used:</h1>
 
 HTML, CSS, JavaScript
+
+
+<img scr="https://i.postimg.cc/2SsMgyG6/1st.png">
