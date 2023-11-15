@@ -25,7 +25,10 @@ HTML, CSS, JavaScript
 <h1>Outputs</h1>
 
 
-<img src="https://i.postimg.cc/2SsMgyG6/1st.png" width=260 alt="Opening" title="Opening"> <img src="https://i.postimg.cc/FzHB0LrP/2nd.png" width=260 alt="Correct-City-Name" title="Correct-City-Name"> <img src="https://i.postimg.cc/nzZ5cW6f/3rd.png" width=260 alt="Media" title="Media"> <img src="https://i.postimg.cc/FK08vvCx/4th.png" width=260 alt="Wrong-City-Name" title="Wrong-City-Name">
+<img src="https://i.postimg.cc/2SsMgyG6/1st.png" width=260 alt="Opening" title="Opening">
+<img src="https://i.postimg.cc/FzHB0LrP/2nd.png" width=260 alt="Correct-City-Name" title="Correct-City-Name">
+<img src="https://i.postimg.cc/nzZ5cW6f/3rd.png" width=260 alt="Media" title="Media">
+<img src="https://i.postimg.cc/FK08vvCx/4th.png" width=260 alt="Wrong-City-Name" title="Wrong-City-Name">
 
 
 
