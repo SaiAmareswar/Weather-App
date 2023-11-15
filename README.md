@@ -23,8 +23,19 @@ Experience real-time weather updates with the Weather Finder Application. This w
 
 HTML, CSS, JavaScript
 
+<div>
+  ![Opening](https://i.postimg.cc/2SsMgyG6/1st.png)
+</div>
 
-![Opening](https://i.postimg.cc/2SsMgyG6/1st.png)
-![Correct-City-Name](https://i.postimg.cc/FzHB0LrP/2nd.png)
-![Media](https://i.postimg.cc/nzZ5cW6f/3rd.png)
-![Wrong-City-Name](https://i.postimg.cc/FK08vvCx/4th.png)
+<div>
+  ![Correct-City-Name](https://i.postimg.cc/FzHB0LrP/2nd.png)
+</div>
+
+<div>
+  ![Media](https://i.postimg.cc/nzZ5cW6f/3rd.png)
+</div>
+
+<div>
+  ![Wrong-City-Name](https://i.postimg.cc/FK08vvCx/4th.png "Wrong-City-Name title")
+</div>
+
