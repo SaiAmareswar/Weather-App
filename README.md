@@ -3,7 +3,7 @@
 # [Live link](https://saiamareswar.github.io/Weather-App/)
 
 
-Weather Finder Application
+# Weather Finder Application
 
 Description:
 
